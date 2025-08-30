@@ -1,0 +1,13 @@
+{
+    "name": "Javokhir's Organization Workflow",
+    "description": "Javokhir's Organization CI workflow template.",
+    "iconName": "octicon beaker",
+    "categories": [
+        "javascript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.js$"
+    ]
+}
